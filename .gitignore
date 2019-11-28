@@ -46,6 +46,8 @@ Temporary Items
 .apdisk
 
 ### Node ###
+node_modules
+.env
 # Logs
 logs
 *.log
